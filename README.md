@@ -45,3 +45,6 @@ Audio inputs and outputs are placed in **audio** folder:
     - Band music using Open-Unmix: audio/band/chorus/Open-Unmix_separated
     - Fingerstyle music: audio/fingerstyle/chorus/separated
   - Output: presented in jupyter notebook
+
+### Report Link
+[Final Report](Team 10_Comparison Between Fingerstyle Composition and its Corresponding Band Music.pdf)
