@@ -23,14 +23,23 @@ All the code is placed in the **code** folder:
 
 Audio inputs and outputs are placed in **audio** folder:
 * Chorus Extraction:
-  - Input: audio/band/full & audio/fingerstyle/full
-  - Output: audio/band/chorus/original & audio/fingerstyle/chorus/original
+  - Input
+    - Band music: audio/band/full
+    - Fingerstyle music: audio/fingerstyle/full
+  - Output
+    - Band music: audio/band/chorus/original
+    - Fingerstyle music: audio/fingerstyle/chorus/original
 * Source separation for band music:
   - Input: audio/band/chorus/original
-  - Output: audio/band/chorus/demucs_separated/htdemucs & audio/band/chorus/Open-Unmix_separated
+  - Output
+    - Separation using Demucs: audio/band/chorus/demucs_separated/htdemucs
+    - Separation using Open-Unmix: audio/band/chorus/Open-Unmix_separated
 * Bass and melody separation for fingerstyle music:
   - Input: audio/fingerstyle/chorus/original
   - Output: audio/fingerstyle/chorus/separated
 * Music Transcription:
-  - Input: audio/band/chorus/demucs_separated/htdemucs & audio/band/chorus/Open-Unmix_separated & audio/fingerstyle/chorus/separated
+  - Input
+    - Band music using Demucs: audio/band/chorus/demucs_separated/htdemucs
+    - Band music using Open-Unmix: audio/band/chorus/Open-Unmix_separated
+    - Fingerstyle music: audio/fingerstyle/chorus/separated
   - Output: presented in jupyter notebook
