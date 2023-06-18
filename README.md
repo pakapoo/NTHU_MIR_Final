@@ -48,3 +48,4 @@ Audio inputs and outputs are placed in **audio** folder:
 
 ### Report Link
 [Final Report](Team%2010_Comparison%20Between%20Fingerstyle%20Composition%20and%20its%20Corresponding%20Band%20Music.pdf)
+[Powerpoint](Team%2010_Comparison%20Between%20Fingerstyle%20Composition%20and%20its%20Corresponding%20Band%20Music.pptx)
