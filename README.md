@@ -13,7 +13,7 @@ We can break down the process into several steps:
 4. Perform music transcription on the output of step 3 and 4
 5. Side by side comparison for the result of step 4 and see the difference between fingertsyle composition and original music
 <br>
-<img width="896" alt="nthu_mir_final_process" src="https://github.com/pakapoo/NTHU_MIR_Final/assets/45991312/df05de77-b5d5-4130-8865-e4301e4d1569"> \
+<img width="896" alt="nthu_mir_final_process" src="https://github.com/pakapoo/NTHU_MIR_Final/assets/45991312/df05de77-b5d5-4130-8865-e4301e4d1569">
 
 ### File structure
 All the code is placed in the **code** folder:
