@@ -47,4 +47,4 @@ Audio inputs and outputs are placed in **audio** folder:
   - Output: presented in jupyter notebook
 
 ### Report Link
-[Final Report](Team 10_Comparison Between Fingerstyle Composition and its Corresponding Band Music.pdf)
+[Final Report](Team%2010_Comparison%20Between%20Fingerstyle%20Composition%20and%20its%20Corresponding%20BandMusic.pdf)
